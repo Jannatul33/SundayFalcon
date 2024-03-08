@@ -10,8 +10,8 @@ public class DataTypes {
      1. premitive: pre define by java (int,short, long, float, double, boolean)
      2. Non-premitive: not define by java (class,Array, Object)
 */
-   int a = 10;
-   int b = 25;
+   int a = 35;
+   int b = 55;
    int c = a + b;
    System.out.println(c);
    
@@ -26,3 +26,11 @@ public class DataTypes {
    
 }
 } 
+
+
+
+
+
+
+
+
